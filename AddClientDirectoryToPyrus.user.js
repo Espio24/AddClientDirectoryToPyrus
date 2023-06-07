@@ -57,7 +57,7 @@
         addClientDirectoryToPyrus.onclick = function(){
 
             token = getToken(login, password);
-            var manualid = '127875';
+            var manualid = '45252';
             var url = 'https://api.pyrus.com/v4/catalogs/' + manualid; //менять справочник туть
             var getting_manual;
 
